@@ -1,0 +1,7 @@
+{
+  "name": "OMIDENT Dental Clinic",
+  "description": "OMIDENT Dental Clinic in Kharadi Pune offers root canal treatment, teeth cleaning, implants and complete dental care with modern technology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
